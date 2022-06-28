@@ -1,2 +1,4 @@
 /.idea/
-/Git_Continue_Branching.iml
+*.iml
+out
+
